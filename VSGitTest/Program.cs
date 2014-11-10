@@ -10,8 +10,12 @@ namespace VSGitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("123");
 
+            if(true)
+            {
+                Console.WriteLine("123");
+
+            }
             Console.ReadLine();
         }
     }
