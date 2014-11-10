@@ -11,7 +11,7 @@ namespace VSGitTest
         static void Main(string[] args)
         {
 
-            if(true)
+            if(true || false )
             {
                 Console.WriteLine("123");
 
